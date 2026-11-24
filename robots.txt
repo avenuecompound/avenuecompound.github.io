@@ -1,5 +1,4 @@
 User-agent: *
 Disallow:
-Allow: /
 
-Sitemap: https://avenuecompound.github.io/sitemap.xml
+Sitemap: https://avenuecompound.github.io/sitemap-index.xml
